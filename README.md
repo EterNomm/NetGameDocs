@@ -1,10 +1,8 @@
 # NetGameDocs
 Lists of useful documentation for creating a multiplayer game
-You can find all the links at the very bottom part
 
 ## Why i created this
-Well, multiplayer is hard to create, ngl. Thats why i created this repo to help anybody who wants to make a networked game
-This can be very helpful if your game is server side, meaning that server is the one who did every logic, and the client just visualizes it
+Well, multiplayer is hard to create, ngl. Thats why i created this repo to help anybody who wants to make a networked game. This can be very helpful if your game is server side, meaning that server is the one who did every logic, and the client just visualizes it. You can find all the links at the very bottom part
 
 ### The problem with latency
 So, basically, networking is pretty complicated. But you can pick some networking library to save your time
