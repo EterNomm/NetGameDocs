@@ -1,5 +1,6 @@
 # NetGameDocs
 Lists of useful documentation for creating a multiplayer game
+You can find all the links at the very bottom part
 
 ## Why i created this
 Well, multiplayer is hard to create, ngl. Thats why i created this repo to help anybody who wants to make a networked game
